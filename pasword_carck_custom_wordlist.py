@@ -12,4 +12,5 @@ def gen():
          f.write(''.join(perm) )
          f.write("\n")
          f.close()
+     print("Successfully Generated")
 gen()
